@@ -1,4 +1,4 @@
-**Michael Knott, Strength & Conditioniong Coach and an aspiring Python Developer**
+**Michael Knott, Strength & Conditioniong Coach and Python Developer**
 
 I love solving questions related to sports performance. I'm currently on a journey to learn Python to solve more complex problems. In my current projects I'm using Django, Playwright and BeautifulSoup with a touch of htmx and Chart.js
 
