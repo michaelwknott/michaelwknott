@@ -6,7 +6,8 @@ I’m keen to explore how other sports practitioners are using Python within the
 
 Please contact me if you'd like to collaborate or have information to share.
 
- - Twitter: @michaelwknott
+ - Twitter: [@michaelwknott](https://twitter.com/michaelwknott)
+ - LinkedIn: https://www.linkedin.com/in/michael-knott-a8005916/
  - Website: https://michaelwknott.github.io/
 
 
