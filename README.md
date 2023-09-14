@@ -1,8 +1,6 @@
-**Michael Knott, Strength & Conditioniong Coach and Python Developer**
+**Michael Knott, Python Developer**
 
-I love solving questions related to sports performance. I'm currently using Python to solve more complex problems. In my current projects I'm using Requests, Pandas, Streamlit, Django, Playwright and BeautifulSoup with a touch of htmx and Chart.js
-
-I’m keen to explore how other sports practitioners are using Python within their day-to-day practice in support of improving performance. 
+I am a software developer with a coaching background, actively using Python to build applications that support elite athlete performance plans for competition preparation. I am passionate about learning and actively seeking a software development role where I can apply my analytical and problem-solving skills to tackle complex challenges.
 
 Please contact me if you'd like to collaborate or have information to share.
 
