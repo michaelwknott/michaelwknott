@@ -1,6 +1,6 @@
 **Michael Knott, Python Developer**
 
-I am a software developer with a coaching background, actively using Python to build applications that support elite athlete performance plans. I am passionate about learning and actively seeking a software development role where I can apply my analytical and problem-solving skills to tackle complex challenges.
+I am a software developer with a sport science and coaching background. I'm currently using Python to build applications that support elite athlete performance plans. I am passionate about learning and actively seeking a software development role where I can apply my analytical and problem-solving skills to tackle complex challenges.
 
 Please contact me if you'd like to collaborate or have information to share.
 
